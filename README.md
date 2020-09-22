@@ -1,4 +1,4 @@
-## Hi there, I'm Vini Vargas - aka Goustiee 👋
+## Hi there, I'm Vini Vargas - aka Goustiee <img src="https://media.tenor.com/images/b443df0d6621701416bc161e535343f6/tenor.gif" width="50">
 
 ### Connect with me:
 
