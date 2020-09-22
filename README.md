@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## I'm a Developer!
+### Hi there, I'm Vini Vargas - aka Goustiee 👋
 
 ### Connect with me:
 
