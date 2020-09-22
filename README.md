@@ -1,4 +1,4 @@
-### Hi there, I'm Vini Vargas - aka Goustiee 👋
+## Hi there, I'm Vini Vargas - aka Goustiee 👋
 
 ### Connect with me:
 
