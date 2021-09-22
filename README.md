@@ -18,7 +18,7 @@
 <img align="left" alt="Flutter" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" />
 <img align="left" alt="Angular" width="26px" src="https://angular.io/assets/images/logos/angular/angular.png" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" />
-<img align="left" alt="Docker" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png" />
+<img align="left" alt="Docker" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_logo_icon_146556.png" />
 <img align="left" alt="Terraform" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_terraform_icon_130125.png" />
 <img align="left" alt="Kubernetes" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kubernetes_logo_icon_168359.png" />
 <img align="left" alt="Azure" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_azure_icon_130731.png" />
